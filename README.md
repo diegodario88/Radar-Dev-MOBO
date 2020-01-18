@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://google.com/">
-    <img src="./assets/radar.png" alt="Logo" width="600" height="300">
+    <img src="./assets/radar.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Radar Dev  WEB</h3>
