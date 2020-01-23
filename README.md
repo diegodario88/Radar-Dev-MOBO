@@ -8,7 +8,7 @@
   <h3 align="center">Radar Dev  WEB</h3>
 
   <p align="center">
-    Projeto criado na semana OmniStack.
+    Projeto mobile criado para consumir a API via socket-io.
     <br />
     
   </p>
@@ -27,8 +27,11 @@ Projetado para suprir minimamente a interação do usuário, esse modelo cria in
 + Minimal abstractions
 
 
-### Organization
-Each version of the API functions as a self-contained module, and therefore has its own ````package.json````, ````README````, and dependencies.
+### Print Screen
+<p align="left">
+  <a href="https://google.com/">
+    <img src="./assets/print.png" alt="Logo" width="300" height="600">
+  </a>
 
 
 ### Install
